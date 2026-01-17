@@ -1,4 +1,4 @@
-# Kalaiarasan-
+
 # 👋 Hi, I'm Kalai Arasan
 
 💻 Aspiring Software Developer  
@@ -34,8 +34,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: kalaigurusamy8@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/kalaiarasan10
 
 ---
 
